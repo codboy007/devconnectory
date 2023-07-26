@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://ray123:ray123@cluster0-qeowj.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "myJwtToken",
+  "githubToken": "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"
+}
